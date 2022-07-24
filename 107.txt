@@ -1,0 +1,6 @@
+occupied
+OBR
+1000
+parag
+bus stand
+11110000110
